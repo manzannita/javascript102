@@ -91,7 +91,9 @@ document.addEventListener('DOMContentLoaded', function() {
         displayItemData(e.target.value);
     });
     
-    // Event listeners para los botones
+    // Event listeners para los botones :)
     document.getElementById('increaseScore').addEventListener('click', increaseScore);
     document.getElementById('decreaseScore').addEventListener('click', decreaseScore);
 });
+
+//finalizado!!
